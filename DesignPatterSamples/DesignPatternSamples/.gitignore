@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+TestResults/
+
+# VS Code
+.vscode/
+
+# Testes de Cobertura
+CoverageResults
+
+# Sonar
+.sonarqube
+test-coverage-with-sonar.bat
